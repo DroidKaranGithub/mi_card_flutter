@@ -2,6 +2,10 @@
 
 A new Flutter application.
 
+#flutterbrew 
+
+This is my first flutter app. can easily understand of flutter widgets like Circle Avatar, ListTile, Card, Text, TextStyle, Icons, Font Style and how to add images and fonts in flutter project
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
